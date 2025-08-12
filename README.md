@@ -35,10 +35,10 @@ It sets up Iran, Asia, and global pool servers for accurate and fast time synchr
 ## Installation
 
 ```bash
-git clone https://github.com/arynishere/ntp-installer.git
-cd ntp-installer
-chmod +x install_ntp.sh
-./install_ntp.sh
+git clone https://github.com/arynishere/ntp.git
+cd ntp
+chmod +x ntp-installation.sh
+./ntp-installation.sh
 ````
 
 > Make sure you run the script as a user with **sudo** privileges.
