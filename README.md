@@ -12,14 +12,14 @@ It sets up Iran, Asia, and global pool servers for accurate and fast time synchr
 - **Pre-configured NTP servers**:
 
 
-server 0.ir.pool.ntp.org iburst
-server 1.ntp.day.ir iburst
-server 2.asia.pool.ntp.org iburst
-server 3.asia.pool.ntp.org iburst
-server 0.pool.ntp.org iburst
-server 1.pool.ntp.org iburst
-server 2.pool.ntp.org iburst
-server 3.pool.ntp.org iburst
+-server 0.ir.pool.ntp.org iburst
+-server 1.ntp.day.ir iburst
+-server 2.asia.pool.ntp.org iburst
+-server 3.asia.pool.ntp.org iburst
+-server 0.pool.ntp.org iburst
+-server 1.pool.ntp.org iburst
+-server 2.pool.ntp.org iburst
+-server 3.pool.ntp.org iburst
 
 - **Automatic backup** of the existing `/etc/ntp.conf`.
 - **Service enable & start** on completion.
