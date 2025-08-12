@@ -21,7 +21,6 @@ server 1.pool.ntp.org iburst
 server 2.pool.ntp.org iburst
 server 3.pool.ntp.org iburst
 
-````
 - **Automatic backup** of the existing `/etc/ntp.conf`.
 - **Service enable & start** on completion.
 
