@@ -1,9 +1,6 @@
-Alright — here’s a **professional but clear** `README.md` you can put in your GitHub repo for this NTP installer script.
-I’ll make it clean, include usage, and give you some credit with your GitHub handle.
 
----
 
-```markdown
+
 # NTP Server Installer & Configurator
 
 This script automatically installs and configures **NTP (`ntpd`)** on both **RedHat-based** and **Debian-based** systems.  
@@ -13,7 +10,7 @@ It sets up Iran, Asia, and global pool servers for accurate and fast time synchr
 - **OS detection** — works on both RedHat-based (CentOS, RHEL, Rocky, AlmaLinux) and Debian-based (Debian, Ubuntu) systems.
 - **Automated installation** of the `ntp` package.
 - **Pre-configured NTP servers**:
-```
+
 
 server 0.ir.pool.ntp.org iburst
 server 1.ntp.day.ir iburst
